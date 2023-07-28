@@ -1,4 +1,4 @@
-FROM node:current-slim
+FROM node:current-alpine
 
 LABEL MAINTAINER=nigelpoulton@hotmail.com
 
